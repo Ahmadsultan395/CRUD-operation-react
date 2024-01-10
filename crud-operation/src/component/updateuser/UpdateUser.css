@@ -1,0 +1,9 @@
+.updatetable th,td{ 
+    border: 1px solid black;
+}
+.updatetable{
+    width: 100%;
+}
+.updatetableeidt{
+    margin-right:  1rem;
+}

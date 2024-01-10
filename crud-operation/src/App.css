@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+table{
+  display: flex;
+  justify-content: center;
+}
+table ul {
+  list-style:none;
+  text-decoration: none;
+  
+}
+table ul li {
+  display: inline-block;
+  padding-right: 1rem;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
